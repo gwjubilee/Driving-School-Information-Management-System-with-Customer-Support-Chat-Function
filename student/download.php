@@ -63,8 +63,8 @@ $username=$userfetch["student_name"];
 	</div>
 	
 	<div class="report" data-aos="fade-up" data-aos-duration="1000">
-  <span style="color:transparent;"> This is your evaluations reports click the 
-  icon to download it  .............................</span>
+  <span style="color:transparent;"> This is your evaluation report. Click the 
+  icon to download..............................</span>
   <a onclick="window.print()" class="btn btn-link"> 
     <span style="color:gray;"><i class="fa fa-download"></i></a>
     </div>
