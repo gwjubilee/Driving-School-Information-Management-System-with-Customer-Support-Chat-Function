@@ -1,0 +1,96 @@
+<!-- icons; get icons from https://fonts.google.com/icons -->
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+    <symbol id="logout" viewBox="0 0 48 48">
+      <path fill-rule="evenodd" d="M9 42q-1.2 0-2.1-.9Q6 40.2 6 39V9q0-1.2.9-2.1Q7.8 6 9 6h14.55v3H9v30h14.55v3Zm24.3-9.25-2.15-2.15 5.1-5.1h-17.5v-3h17.4l-5.1-5.1 2.15-2.15 8.8 8.8Z"/>
+    </symbol>
+    <symbol id="description" viewBox="0 0 48 48">
+      <path fill-rule="evenodd" <path d="M15.95 35.5h16.1v-3h-16.1Zm0-8.5h16.1v-3h-16.1ZM11 44q-1.2 0-2.1-.9Q8 42.2 8 41V7q0-1.2.9-2.1Q9.8 4 11 4h18.05L40 14.95V41q0 1.2-.9 2.1-.9.9-2.1.9Zm16.55-27.7V7H11v34h26V16.3ZM11 7v9.3V7v34V7Z"/>
+    </symbol>
+    <symbol id="badge" viewBox="0 0 48 48">
+      <path fill-rule="evenodd" <path d="M7 44q-1.2 0-2.1-.9Q4 42.2 4 41V17q0-1.2.9-2.1.9-.9 2.1-.9h11.85V7q0-1.2.9-2.1.9-.9 2.1-.9h4.35q1.2 0 2.1.9.9.9.9 2.1v7H41q1.2 0 2.1.9.9.9.9 2.1v24q0 1.2-.9 2.1-.9.9-2.1.9Zm0-3h34V17H29.2q0 1.4-.925 2.2-.925.8-2.325.8h-3.9q-1.35 0-2.275-.8-.925-.8-.925-2.2H7v24Zm4.6-5.35h11.95v-.7q0-.9-.45-1.6-.45-.7-1.15-.95-1.6-.55-2.5-.725-.9-.175-1.75-.175-.95 0-2.025.225t-2.425.675q-.75.25-1.2.95-.45.7-.45 1.6Zm16.8-3.35h8.5v-2.5h-8.5Zm-10.7-2.5q1.15 0 1.925-.8.775-.8.775-1.9 0-1.15-.775-1.925-.775-.775-1.925-.775-1.1 0-1.9.775-.8.775-.8 1.925 0 1.1.8 1.9.8.8 1.9.8Zm10.7-3.15h8.5v-2.5h-8.5ZM21.85 17h4.35V7h-4.35ZM24 29Z"/>
+    </symbol>
+    <symbol id="calendar-month" viewBox="0 0 48 48">
+      <path fill-rule="evenodd" <path d="M9 44q-1.2 0-2.1-.9Q6 42.2 6 41V10q0-1.2.9-2.1Q7.8 7 9 7h3.25V4h3.25v3h17V4h3.25v3H39q1.2 0 2.1.9.9.9.9 2.1v31q0 1.2-.9 2.1-.9.9-2.1.9Zm0-3h30V19.5H9V41Zm0-24.5h30V10H9Zm0 0V10v6.5ZM24 28q-.85 0-1.425-.575Q22 26.85 22 26q0-.85.575-1.425Q23.15 24 24 24q.85 0 1.425.575Q26 25.15 26 26q0 .85-.575 1.425Q24.85 28 24 28Zm-8 0q-.85 0-1.425-.575Q14 26.85 14 26q0-.85.575-1.425Q15.15 24 16 24q.85 0 1.425.575Q18 25.15 18 26q0 .85-.575 1.425Q16.85 28 16 28Zm16 0q-.85 0-1.425-.575Q30 26.85 30 26q0-.85.575-1.425Q31.15 24 32 24q.85 0 1.425.575Q34 25.15 34 26q0 .85-.575 1.425Q32.85 28 32 28Zm-8 8q-.85 0-1.425-.575Q22 34.85 22 34q0-.85.575-1.425Q23.15 32 24 32q.85 0 1.425.575Q26 33.15 26 34q0 .85-.575 1.425Q24.85 36 24 36Zm-8 0q-.85 0-1.425-.575Q14 34.85 14 34q0-.85.575-1.425Q15.15 32 16 32q.85 0 1.425.575Q18 33.15 18 34q0 .85-.575 1.425Q16.85 36 16 36Zm16 0q-.85 0-1.425-.575Q30 34.85 30 34q0-.85.575-1.425Q31.15 32 32 32q.85 0 1.425.575Q34 33.15 34 34q0 .85-.575 1.425Q32.85 36 32 36Z"/>
+    </symbol>
+    <symbol id="school" viewBox="0 0 48 48">
+      <path fill-rule="evenodd" <path d="m23.95 42-14.5-7.95v-12L2 18 23.95 6 46 18v15.85h-3v-14.1l-4.55 2.3v12Zm0-15.4L39.7 18 23.95 9.55 8.3 18Zm0 12 11.5-6.35v-8.4L23.95 30l-11.5-6.25v8.5Zm.05-12Zm-.05 3.7Zm0 0Z"/>
+    </symbol>
+    <symbol id="dashboard" viewBox="0 0 48 48">
+      <path fill-rule="evenodd" <path d="M25.5 19.5V6H42v13.5ZM6 25.5V6h16.5v19.5ZM25.5 42V22.5H42V42ZM6 42V28.5h16.5V42Zm3-19.5h10.5V9H9ZM28.5 39H39V25.5H28.5Zm0-22.5H39V9H28.5ZM9 39h10.5v-7.5H9Zm10.5-16.5Zm9-6Zm0 9Zm-9 6Z"/>
+    </symbol>
+    <symbol id="add" viewBox="0 0 48 48">
+      <path fill-rule="evenodd" <path d="M22.5 38V25.5H10v-3h12.5V10h3v12.5H38v3H25.5V38Z"/>
+    </symbol>
+    <symbol id="edit" viewBox="0 0 48 48">
+      <path fill-rule="evenodd" <path d="M9 39h2.2l22.15-22.15-2.2-2.2L9 36.8Zm30.7-24.3-6.4-6.4 2.1-2.1q.85-.85 2.1-.85t2.1.85l2.2 2.2q.85.85.85 2.1t-.85 2.1Zm-2.1 2.1L12.4 42H6v-6.4l25.2-25.2Zm-5.35-1.05-1.1-1.1 2.2 2.2Z"/>
+    </symbol>
+    <symbol id="delete" viewBox="0 0 48 48">
+      <path fill-rule="evenodd" <path d="M13.05 42q-1.25 0-2.125-.875T10.05 39V10.5H8v-3h9.4V6h13.2v1.5H40v3h-2.05V39q0 1.2-.9 2.1-.9.9-2.1.9Zm21.9-31.5h-21.9V39h21.9Zm-16.6 24.2h3V14.75h-3Zm8.3 0h3V14.75h-3Zm-13.6-24.2V39Z"/>
+    </symbol>
+    <symbol id="settings" viewBox="0 0 48 48">
+      <path fill-rule="evenodd" <path d="m19.4 44-1-6.3q-.95-.35-2-.95t-1.85-1.25l-5.9 2.7L4 30l5.4-3.95q-.1-.45-.125-1.025Q9.25 24.45 9.25 24q0-.45.025-1.025T9.4 21.95L4 18l4.65-8.2 5.9 2.7q.8-.65 1.85-1.25t2-.9l1-6.35h9.2l1 6.3q.95.35 2.025.925Q32.7 11.8 33.45 12.5l5.9-2.7L44 18l-5.4 3.85q.1.5.125 1.075.025.575.025 1.075t-.025 1.05q-.025.55-.125 1.05L44 30l-4.65 8.2-5.9-2.7q-.8.65-1.825 1.275-1.025.625-2.025.925l-1 6.3ZM24 30.5q2.7 0 4.6-1.9 1.9-1.9 1.9-4.6 0-2.7-1.9-4.6-1.9-1.9-4.6-1.9-2.7 0-4.6 1.9-1.9 1.9-1.9 4.6 0 2.7 1.9 4.6 1.9 1.9 4.6 1.9Zm0-3q-1.45 0-2.475-1.025Q20.5 25.45 20.5 24q0-1.45 1.025-2.475Q22.55 20.5 24 20.5q1.45 0 2.475 1.025Q27.5 22.55 27.5 24q0 1.45-1.025 2.475Q25.45 27.5 24 27.5Zm0-3.5Zm-2.2 17h4.4l.7-5.6q1.65-.4 3.125-1.25T32.7 32.1l5.3 2.3 2-3.6-4.7-3.45q.2-.85.325-1.675.125-.825.125-1.675 0-.85-.1-1.675-.1-.825-.35-1.675L40 17.2l-2-3.6-5.3 2.3q-1.15-1.3-2.6-2.175-1.45-.875-3.2-1.125L26.2 7h-4.4l-.7 5.6q-1.7.35-3.175 1.2-1.475.85-2.625 2.1L10 13.6l-2 3.6 4.7 3.45q-.2.85-.325 1.675-.125.825-.125 1.675 0 .85.125 1.675.125.825.325 1.675L8 30.8l2 3.6 5.3-2.3q1.2 1.2 2.675 2.05Q19.45 35 21.1 35.4Z"/>
+    </symbol>
+</svg>
+
+<!-- side navigation bar -->
+<div class="sidenav" style="font-size: 15pt;">
+  <div class="d-flex flex-column p-3 text-bg-dark" style="width: 250px; height: 100%;">
+    <img src="../asset/img/logo.png" class="img-fluid rounded mx-auto d-block" alt="logo" style="width: 70px;">
+    <span class="fs-5 nav-link text-white text-center"> Mabuhay Driving Lesson Academy</span>
+<div class="text-center" data-aos="zoom-out" data-aos-duration="1700">
+  <br>
+    <h6><span style="color:orange;">ADMIN</span></h6></div>
+
+    <hr>
+    <ul class="nav nav-pills flex-column mb-auto">
+      <li class="nav-item">
+        <a href="index.php" class="nav-link text-white">
+          <svg class="bi pe-none me-2" width="18" height="18"><use xlink:href="#dashboard"/></svg>
+          Dashboard
+        </a>
+      </li>
+
+      <li class="nav-item">
+        <a href="instructor.php" class="nav-link text-white">
+          <svg class="bi pe-none me-2" width="18" height="18"><use xlink:href="#badge"/></svg>
+          Instructors
+        </a>
+      </li>
+
+    <li class="nav-item">
+        <a href="student.php" class="nav-link text-white">
+            <svg class="bi pe-none me-2" width="18" height="18"><use xlink:href="#school"/></svg>
+            Students
+        </a>
+    </li>
+
+      <li class="nav-item">
+        <a href="schedule.php" class="nav-link text-white">
+          <svg class="bi pe-none me-2" width="18" height="18"><use xlink:href="#calendar-month"/></svg>
+          Schedules
+        </a>
+      </li>
+
+      <li class="nav-item">
+        <a href="enrollment.php" class="nav-link text-white">
+          <svg class="bi me-2" width="18" height="18"><use xlink:href="#description"/></svg>
+          Enrollments
+        </a>
+      </li>
+      <hr>
+      <li class="nav-item">
+        <a href="settings.php" class="nav-link text-white">
+          <svg class="bi me-2" width="18" height="18"><use xlink:href="#settings"/></svg>
+          Settings
+        </a>
+      </li>
+
+      <li class="nav-item">
+      <a href="../include/signout.php" class="nav-link text-white">
+          <svg class="bi pe-none me-2" width="18" height="18"><use xlink:href="#logout"/></svg>
+          Sign out
+        </a>
+      </li>
+    </ul>
+  </div>
+</div>
