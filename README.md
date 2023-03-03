@@ -15,7 +15,7 @@ Our objectives are...
 Admin can...
 <pre>
 1. Manage user’s  information 
-    – View and manage the user’s information–edit, remove, and add (instructor only).
+    – View and manage the users' information–edit, remove, and add (instructor only).
     
 2. Manage schedules
     – Add and remove instructors' schedules.
@@ -52,8 +52,8 @@ Students can...
     – Provided with step-by-step process on how to enroll.
 
 3. View schedules and instructor assigned to the schedules
-    – View instructors' driving lesson schedules
-    – View schedule information
+    – View instructors' driving lesson schedules.
+    – View schedule information.
 
 4. Chat instructors
     – Search for an instructor to start a conversation.
