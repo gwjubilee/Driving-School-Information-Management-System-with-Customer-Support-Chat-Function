@@ -178,7 +178,7 @@ require_once "../include/connection.php";
       <td>'.$schedule_date.'</td>
       <td>'.$schedule_time.'</td>
       <td>
-      <a href="?action=drop&id='.$schedule_id.'&name='.$title.'" class="btn btn-warning btn-sm">Cancel Schedule</a>
+      <a href="?action=drop&id='.$schedule_id.'" class="btn btn-warning btn-sm">Cancel Schedule</a>
       </td>
     </tr>
     </tbody>
@@ -255,14 +255,14 @@ require_once "../include/connection.php";
   ';
 
   } elseif($action=='schedule_added') {
-  $titleget=$_GET["title"];
+  $get_course_type=$_GET["course_type"];
   echo '
   <div class="overlay">
   <div class="popup text-center text-white">
       <img src="../asset/img/undraw_welcome.svg" width="50%" style="margin-bottom: 10px;">
       <a class="close" href="instructor.php">&times;</a>
       <p>Successfully added!</p>
-      <p><span class="text-warning">'.substr($titleget,0,40).'</span> is set.</p>
+      <p><span class="text-warning">'.$get_course_type.'</span> is set.</p>
       <a href="schedule.php" class="btn btn-warning btn-sm">Okay</a>
       </div>
   </div>

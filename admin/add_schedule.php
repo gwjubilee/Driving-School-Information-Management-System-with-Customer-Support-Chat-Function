@@ -16,13 +16,13 @@ if(isset($_SESSION["user"])) {
 if($_POST) {
 //import database
 require_once "../include/connection.php";
-$title=$_POST["title"];
+$course_type=$_POST["course_type"];
 $instructor_id=$_POST["instructor_id"];
 $date=$_POST["date"];
 $time=$_POST["time"];
-$sql="INSERT INTO schedule(instructor_id,title,schedule_date,schedule_time) values($instructor_id,'$title','$date','$time');";
+$sql="INSERT INTO schedule(instructor_id,course_type,schedule_date,schedule_time) values($instructor_id,'$course_type','$date','$time');";
 $result= $database->query($sql);
-header("location: schedule.php?action=schedule_added&title=$title");
+header("location: schedule.php?action=schedule_added&course_type=$course_type");
 
 }
 
